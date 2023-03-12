@@ -1,7 +1,7 @@
 # Lucas Vidal 👨‍💻
 ## Seja bem vindo! 👋
 
-### Me chamo, Lucas. Sou desenvolvedor Fullstack React/.NET/SQL Server, estagiário na <a href="https://www.camed.com.br/">Camed Saúde</a> e graduando no 7° semestre de Engenharia de Telecomunicações no <a href="https://ifce.edu.br/">IFCE</a>.
+### Me chamo, Lucas. Sou desenvolvedor Fullstack React/.NET/SQL Server, estagiário na <a href="https://www.camed.com.br/">Camed Saúde</a> e graduando no 8° semestre de Engenharia de Telecomunicações no <a href="https://ifce.edu.br/">IFCE</a>.
 
 <h1>Conhecimentos</h1>
 <div 
