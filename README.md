@@ -1,7 +1,7 @@
 # Lucas Vidal 👨‍💻
 ## Seja bem vindo! 👋
 
-### Me chamo Lucas. Sou desenvolvedor Fullstack React/.NET/SQL Server, Mobile Flutter/Dart e RPA Power Automate. Atuo como Analista de Sistemas na <a href="https://www.camed.com.br/">Camed Saúde</a> e sou graduando no Último semestre de Engenharia de Telecomunicações no <a href="https://ifce.edu.br/">IFCE</a>. 
+### Me chamo Lucas. Sou desenvolvedor Fullstack React/.NET/SQL Server, Mobile Flutter/Dart e RPA Power Automate. Atuo como Analista de Sistemas na <a href="https://www.camed.com.br/">Camed Saúde</a> e sou graduando no último semestre de Engenharia de Telecomunicações no <a href="https://ifce.edu.br/">IFCE</a>. 
 
 <h1>Conhecimentos</h1>
 <div 
